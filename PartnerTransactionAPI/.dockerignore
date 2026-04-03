@@ -1,0 +1,8 @@
+bin/
+obj/
+logs/
+*.user
+*.suo
+.vs/
+.vscode/
+README.md
